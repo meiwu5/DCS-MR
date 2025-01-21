@@ -1,8 +1,10 @@
 ## DCS-MR
 ![model](https://github.com/user-attachments/assets/8bd068bd-9e94-4b40-a267-360f2c0ed69d)
-### Run Code
+### Dataset
 The dataset is obtained from:
+
 Make sure to place it in the data directory.
+### Run Code
 ```
 conda create -n DCS-MR pythom==3.12
 conda activate DCS-MR
