@@ -1,9 +1,10 @@
 ## DCS-MR
 ![model](https://github.com/user-attachments/assets/8bd068bd-9e94-4b40-a267-360f2c0ed69d)
 ### Dataset
-The dataset is obtained from : [https://drive.google.com/file/d/10qWgCYoNX-D0Zyk6b16YjVlomhcW6vKc/view?usp=sharing](https://drive.google.com/file/d/10qWgCYoNX-D0Zyk6b16YjVlomhcW6vKc/view?usp=sharing)
+The dataset is obtained from : [https://drive.google.com/file/d/1u6gUe59aomRhT9pe5meRhSTiVtxkNfc1/view?usp=drive_link](https://drive.google.com/file/d/1u6gUe59aomRhT9pe5meRhSTiVtxkNfc1/view?usp=drive_link)
 
 Make sure to place it in the data directory.
+
 ### Run Code
 ```
 conda create -n DCS-MR pythom==3.12
@@ -11,6 +12,12 @@ conda activate DCS-MR
 pip install -r requirements.txt
 sh run.sh
 ```
+
+### Run Logs:
+
+The run logs are saved in the res folder.
+Previously executed res files:
+
 ### Important Parameters in `config`
 
 - **`data_process`:**  
