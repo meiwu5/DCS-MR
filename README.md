@@ -3,12 +3,12 @@
 ### Run Code
 The dataset is obtained from:
 Make sure to place it in the data directory.
-'''
+```
 conda create -n DCS-MR pythom==3.12
 conda activate DCS-MR
 pip install -r requirements.txt
 sh run.sh
-'''
+```
 ### Important Parameters in `config`
 
 - **`data_process`:**  
