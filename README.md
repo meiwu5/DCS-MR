@@ -7,12 +7,7 @@ Make sure to place it in the **data** directory.
 
 If you need to repeat the baseline experiment:
 
-place the data in **/baseline/TrafficStream-main/data** or **/baseline/STKEC-main/data**, set data_process to 1 in the config, and then run the following code:
-
-```
-pip install -r requirements.txt
-sh run.sh
-```
+place the data in **/baseline/TrafficStream-main/data** or **/baseline/STKEC-main/data**, set data_process to 1 in the config.
 ### Run Code
 ```
 conda create -n DCS-MR pythom==3.12
