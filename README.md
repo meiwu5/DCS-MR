@@ -20,7 +20,7 @@ sh run.sh
 
 The run logs are saved in the res folder.
 
-Previously executed res files:[https://drive.google.com/file/d/10qWgCYoNX-D0Zyk6b16YjVlomhcW6vKc/view?usp=sharing](https://drive.google.com/file/d/10qWgCYoNX-D0Zyk6b16YjVlomhcW6vKc/view?usp=sharing)
+Previously executed res files: [https://drive.google.com/file/d/10qWgCYoNX-D0Zyk6b16YjVlomhcW6vKc/view?usp=sharing](https://drive.google.com/file/d/10qWgCYoNX-D0Zyk6b16YjVlomhcW6vKc/view?usp=sharing)
 
 ### Important Parameters in `config`
 
