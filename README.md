@@ -3,8 +3,16 @@
 ### Dataset
 The dataset is obtained from : [https://drive.google.com/file/d/1u6gUe59aomRhT9pe5meRhSTiVtxkNfc1/view?usp=drive_link](https://drive.google.com/file/d/1u6gUe59aomRhT9pe5meRhSTiVtxkNfc1/view?usp=drive_link)
 
-Make sure to place it in the data directory.
+Make sure to place it in the **data** directory.
 
+If you need to repeat the baseline experiment:
+
+place the data in **/baseline/TrafficStream-main/data** or **/baseline/STKEC-main/data**, set data_process to 1 in the config, and then run the following code:
+
+```
+pip install -r requirements.txt
+sh run.sh
+```
 ### Run Code
 ```
 conda create -n DCS-MR pythom==3.12
